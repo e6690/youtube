@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/youtube/static/css/main.32c95d58.chunk.css",
+    "main.js": "/youtube/static/js/main.0abf7e47.chunk.js",
+    "main.js.map": "/youtube/static/js/main.0abf7e47.chunk.js.map",
+    "runtime-main.js": "/youtube/static/js/runtime-main.cdae53aa.js",
+    "runtime-main.js.map": "/youtube/static/js/runtime-main.cdae53aa.js.map",
+    "static/js/2.abb9065c.chunk.js": "/youtube/static/js/2.abb9065c.chunk.js",
+    "static/js/2.abb9065c.chunk.js.map": "/youtube/static/js/2.abb9065c.chunk.js.map",
+    "index.html": "/youtube/index.html",
+    "precache-manifest.af052c8a9002b9364841a3dc7a92f3e6.js": "/youtube/precache-manifest.af052c8a9002b9364841a3dc7a92f3e6.js",
+    "service-worker.js": "/youtube/service-worker.js",
+    "static/css/main.32c95d58.chunk.css.map": "/youtube/static/css/main.32c95d58.chunk.css.map",
+    "static/js/2.abb9065c.chunk.js.LICENSE.txt": "/youtube/static/js/2.abb9065c.chunk.js.LICENSE.txt",
+    "static/media/Ibrahim Yacouba.jpg": "/youtube/static/media/Ibrahim Yacouba.ffb04a4e.jpg",
+    "static/media/Mahamadou Issoufou.jpg": "/youtube/static/media/Mahamadou Issoufou.fac507f3.jpg",
+    "static/media/Mahamane Ousmane .jpg": "/youtube/static/media/Mahamane Ousmane .6e20beef.jpg",
+    "static/media/Salou Djibo .jpg": "/youtube/static/media/Salou Djibo .93bc037e.jpg",
+    "static/media/Seyni Oumarou.jpg": "/youtube/static/media/Seyni Oumarou.41d38554.jpg",
+    "static/media/jpg.jpeg": "/youtube/static/media/jpg.45db901f.jpeg",
+    "static/media/mnrd.jpeg": "/youtube/static/media/mnrd.011950c4.jpeg",
+    "static/media/mnsd.png": "/youtube/static/media/mnsd.c3738967.png",
+    "static/media/mpn.png": "/youtube/static/media/mpn.df813ef2.png",
+    "static/media/pnds.jpeg": "/youtube/static/media/pnds.3514f54e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdae53aa.js",
+    "static/js/2.abb9065c.chunk.js",
+    "static/css/main.32c95d58.chunk.css",
+    "static/js/main.0abf7e47.chunk.js"
+  ]
+}

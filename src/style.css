@@ -1,0 +1,37 @@
+body {
+  color: #000;
+  background: #32c3ef; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #89fffd,
+    #32c3ef
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #89fffd, #32c3ef);
+}
+
+.main img {
+  margin-right: 2rem;
+}
+h1 {
+  text-align: center;
+}
+i,
+a {
+  color: #89fffd;
+  font-size: 20px;
+}
+.partie {
+  color: #000;
+}
+i:hover,
+a:hover {
+  outline: none;
+  color: #000;
+}
+p {
+  font-size: 20px;
+}
+
+.main {
+  font-size: 20px;
+}
